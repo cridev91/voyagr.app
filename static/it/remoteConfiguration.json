@@ -1,0 +1,63 @@
+{
+  "bottomItemList": [
+    "home",
+    "myPlaces",
+    "generateTravel",
+    "account",
+    "menu"
+  ],
+  "generateTravel": [
+    {
+      "question": "Che tipo di vacanza desideri?",
+      "description": "Scegli il tipo di esperienza che vuoi vivere",
+      "selectionType": "single",
+      "options": [
+        {
+          "icon": "🏖️",
+          "key": "sea",
+          "text": "Mare e relax"
+        },
+        {
+          "icon": "⛰️",
+          "key": "mountain",
+          "text": "Montagna e natura"
+        },
+        {
+          "icon": "🏙️",
+          "key": "city",
+          "text": "Città e cultura"
+        }
+      ]
+    },
+    {
+      "question": "Con chi viaggi?",
+      "description": "Questo ci aiuterà a creare suggerimenti più precisi",
+      "selectionType": "multiple",
+      "options": [
+        {
+          "icon": "❤️",
+          "key": "partner",
+          "text": "In coppia"
+        },
+        {
+          "icon": "👨‍👩‍👧‍👦",
+          "key": "family",
+          "text": "In famiglia"
+        },
+        {
+          "icon": "🧑‍🤝‍🧑",
+          "key": "friends",
+          "text": "Con amici"
+        },
+        {
+          "icon": "🧳",
+          "key": "solo",
+          "text": "Da solo"
+        }
+      ]
+    }
+  ],
+  "appVersion": "1.0.0",
+  "showPhotoGalleryButton": true,
+  "showAISuggestionButton": true
+}
