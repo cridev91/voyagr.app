@@ -2,8 +2,8 @@
   "bottomItemList": [
     "home",
     "myPlaces",
-    "account",
-    "menu"
+    "menu",
+    "account"
   ],
   "generateTravel": [
     {
