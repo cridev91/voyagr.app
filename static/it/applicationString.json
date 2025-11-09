@@ -80,5 +80,15 @@
   "remove_user_trip_alert_cancel_button": "Annulla",
   "choose_map_type_apple": "Apple Mappe",
   "choose_map_type_google": "Google Maps",
-  "trip_detail_travel_duration_detail": "Viaggio di %s giorni dal %s al %s"
+  "trip_detail_travel_duration_detail": "Viaggio di %s giorni dal %s al %s",
+  "profile_header_guest": "Guest",
+  "profile_button_logout": "Esci",
+  "profile_button_admin": "Admin",
+  "profile_button_login": "Accedi",
+  "profile_button_register": "Registrati",
+  "profile_status_level_1": "Viaggiatore",
+  "profile_status_level_2": "Esploratore",
+  "profile_status_level_3": "Nomade",
+  "profile_status_visited_countries": "Paesi visitati",
+  "profile_status_total_countries": "Totale paesi"
 }
