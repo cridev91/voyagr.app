@@ -90,5 +90,14 @@
   "profile_status_level_2": "Esploratore",
   "profile_status_level_3": "Nomade",
   "profile_status_visited_countries": "Paesi visitati",
-  "profile_status_total_countries": "Totale paesi"
+  "profile_status_total_countries": "Totale paesi",
+  "filters_page_screen_title": "Filtri",
+  "filters_page_button_text": "Applica Filtri",
+  "look_around_explore_button_text": "Esplora",
+  "look_around_go_to_destination_button_text": "Raggiungi meta",
+  "trip_detail_toolbar_edit_photo": "Modifica foto",
+  "trip_detail_toolbar_edit_date": "Modifica data",
+  "trip_detail_toolbar_delete": "Elimina",
+  "trip_detail_accordion_plan_your_trip": "Pianifica il tuo viaggio",
+  "trip_detail_accordion_add_activity": "Aggiungi attività"
 }
