@@ -99,5 +99,9 @@
   "trip_detail_toolbar_edit_date": "Modifica data",
   "trip_detail_toolbar_delete": "Elimina",
   "trip_detail_accordion_plan_your_trip": "Pianifica il tuo viaggio",
-  "trip_detail_accordion_add_activity": "Aggiungi attività"
+  "trip_detail_accordion_add_activity": "Aggiungi attività",
+  "plan_your_trip_search_bar_text": "Cerca..",
+  "tab_points_interest_text": "Luoghi",
+  "tab_accommodations_text": "Hotel",
+  "tab_food_and_drink_text": "Food and drink"
 }
