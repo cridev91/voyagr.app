@@ -109,5 +109,7 @@
   "error_invalid_credentials": "Email o password non corretti.",
   "error_email_already_in_use": "Esiste già un account con questa email.",
   "error_weak_password": "La password deve essere di almeno 8 caratteri.",
-  "error_session_expired": "Sessione scaduta. Accedi di nuovo."
+  "error_session_expired": "Sessione scaduta. Accedi di nuovo.",
+  "date_time_picker_title": "Seleziona data e ora",
+  "date_time_picker_confirm_button": "Conferma"
 }
