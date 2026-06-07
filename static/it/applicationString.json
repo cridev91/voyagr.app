@@ -103,5 +103,11 @@
   "plan_your_trip_search_bar_text": "Cerca..",
   "tab_points_interest_text": "Luoghi",
   "tab_accommodations_text": "Hotel",
-  "tab_food_and_drink_text": "Cibo e bevande"
+  "tab_food_and_drink_text": "Cibo e bevande",
+  "error_not_found": "Elemento con id %s non trovato.",
+  "error_network_unavailable": "Connessione non disponibile.",
+  "error_invalid_credentials": "Email o password non corretti.",
+  "error_email_already_in_use": "Esiste già un account con questa email.",
+  "error_weak_password": "La password deve essere di almeno 8 caratteri.",
+  "error_session_expired": "Sessione scaduta. Accedi di nuovo."
 }
