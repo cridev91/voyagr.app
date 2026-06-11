@@ -22,6 +22,7 @@
   "password_text_field_uppercase_policy": " 1 lettera maiuscola,",
   "password_text_field_digit_policy": " 1 numero,",
   "password_text_field_spacial_character_policy": " 1 carattere speciale.",
+  "passwords_do_not_match": "Le password non coincidono",
   "monday": "Lunedì",
   "tuesday": "Martedì",
   "wednesday": "Mercoledì",
