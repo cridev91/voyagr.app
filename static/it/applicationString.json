@@ -112,6 +112,9 @@
   "error_weak_password": "La password deve contenere almeno 8 caratteri, una maiuscola e un numero.",
   "error_session_expired": "La sessione è scaduta. Accedi di nuovo per continuare.",
   "error_unknown": "Si è verificato un errore imprevisto. Riprova più tardi.",
-  "date_time_picker_title": "Seleziona data e ora",
-  "date_time_picker_confirm_button": "Conferma"
+  "date_time_picker_title": "Seleziona intervallo date",
+  "date_time_picker_start_label": "Inizio",
+  "date_time_picker_end_label": "Fine",
+  "date_time_picker_confirm_button": "Conferma",
+  "date_range_picker_month_format": "{month} {year}"
 }
