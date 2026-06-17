@@ -66,6 +66,7 @@
   "add_trip_alert_max_trip_duration_title": "Durata massima del viaggio: 7 giorni",
   "add_trip_alert_max_trip_duration_description": "Per una pianificazione ottimale, il viaggio può durare al massimo 7 giorni. Assicurati di scegliere un intervallo tra 1 e 7 giorni per creare il tuo itinerario personalizzato. Se selezioni un periodo più lungo, il viaggio verrà comunque creato, ma limitato a 7 giorni.",
   "add_trip_button_close_photos": "Chiudi",
+  "add_trip_button_change_photo": "Cambia foto",
   "search_screen_country_item": "Paese",
   "search_screen_county_item": "Provincia/Distretto in %s",
   "search_screen_capital_item": "Capitale in %s",
