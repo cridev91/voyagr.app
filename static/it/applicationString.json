@@ -117,5 +117,19 @@
   "date_time_picker_end_label": "Fine",
   "date_time_picker_confirm_button": "Conferma",
   "date_time_picker_cancel_button": "Annulla",
-  "date_range_picker_month_format": "{month} {year}"
+  "date_range_picker_month_format": "{month} {year}",
+  "trip_status_year_ago": "anno fa",
+  "trip_status_years_ago": "anni fa",
+  "trip_status_month_ago": "mese fa",
+  "trip_status_months_ago": "mesi fa",
+  "trip_status_few_days_ago": "Qualche giorno fa",
+  "trip_status_current": "In corso",
+  "trip_status_day": "giorno",
+  "trip_status_days": "giorni",
+  "trip_status_starts_in": "INIZIA TRA",
+  "trip_status_concluded": "CONCLUSO",
+  "trip_duration_prefix": "VIAGGIO DI",
+  "trip_duration_day": "GIORNO",
+  "trip_duration_days": "GIORNI",
+  "trip_status_placeholder": "—"
 }
