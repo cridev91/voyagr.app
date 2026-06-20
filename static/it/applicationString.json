@@ -131,5 +131,6 @@
   "trip_duration_prefix": "VIAGGIO DI",
   "trip_duration_day": "GIORNO",
   "trip_duration_days": "GIORNI",
-  "trip_status_placeholder": "—"
+  "trip_status_placeholder": "—",
+  "trip_list_create_trip": "Crea viaggio"
 }
