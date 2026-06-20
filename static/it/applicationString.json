@@ -135,5 +135,13 @@
   "trip_list_create_trip": "Crea viaggio",
   "trip_list_empty_title": "Nessun viaggio",
   "trip_list_empty_description": "Crea il tuo primo viaggio",
-  "trip_list_greeting": "I tuoi viaggi"
+  "trip_list_greeting": "I tuoi viaggi",
+  "trip_list_greeting_pre": "Bentornato",
+  "trip_list_greeting_title": "Le tue avventure",
+  "trip_list_next_label": "PROSSIMA AVVENTURA",
+  "trip_list_ongoing_label": "IL TUO VIAGGIO",
+  "trip_list_countdown_day": "giorno alla partenza",
+  "trip_list_countdown_days": "giorni alla partenza",
+  "trip_list_traveling_now": "In viaggio ora",
+  "trip_list_new_trip": "Nuovo viaggio"
 }
