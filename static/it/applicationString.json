@@ -132,5 +132,7 @@
   "trip_duration_day": "GIORNO",
   "trip_duration_days": "GIORNI",
   "trip_status_placeholder": "—",
-  "trip_list_create_trip": "Crea viaggio"
+  "trip_list_create_trip": "Crea viaggio",
+  "trip_list_empty_title": "Nessun viaggio",
+  "trip_list_empty_description": "Crea il tuo primo viaggio"
 }
