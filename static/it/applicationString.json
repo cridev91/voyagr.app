@@ -143,9 +143,5 @@
   "trip_list_countdown_day": "giorno alla partenza",
   "trip_list_countdown_days": "giorni alla partenza",
   "trip_list_traveling_now": "In viaggio ora",
-  "trip_list_new_trip": "Nuovo viaggio",
-  "delete_trip_confirm_title": "Elimina viaggio",
-  "delete_trip_confirm_message": "Sei sicuro di voler eliminare questo viaggio? L'operazione non può essere annullata.",
-  "delete_trip_confirm_button": "Elimina",
-  "delete_trip_cancel_button": "Annulla"
+  "trip_list_new_trip": "Nuovo viaggio"
 }
