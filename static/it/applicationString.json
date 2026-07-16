@@ -127,10 +127,10 @@
   "trip_status_day": "giorno",
   "trip_status_days": "giorni",
   "trip_status_starts_in": "INIZIA TRA",
-  "trip_status_concluded": "CONCLUSO",
-  "trip_duration_prefix": "VIAGGIO DI",
-  "trip_duration_day": "GIORNO",
-  "trip_duration_days": "GIORNI",
+  "trip_status_concluded": "Concluso",
+  "trip_duration_prefix": "Durata",
+  "trip_duration_day": "giorno",
+  "trip_duration_days": "giorni",
   "trip_status_placeholder": "—",
   "trip_list_create_trip": "Crea viaggio",
   "trip_list_empty_title": "Nessun viaggio",
@@ -145,5 +145,10 @@
   "trip_list_traveling_now": "In viaggio ora",
   "trip_list_new_trip": "Nuovo viaggio",
   "add_trip_button_add_destination": "Aggiungi destinazione",
-  "add_trip_search_destination": "Cerca"
+  "add_trip_search_destination": "Cerca",
+  "trip_detail_traveler": "viaggiatore",
+  "trip_detail_travelers": "viaggiatori",
+  "trip_detail_activities": "attività",
+  "trip_detail_empty_title": "Nessuna attività pianificata",
+  "trip_detail_empty_description": "Aggiungi la prima tappa del tuo viaggio"
 }
