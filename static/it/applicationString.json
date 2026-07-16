@@ -143,5 +143,7 @@
   "trip_list_countdown_day": "giorno alla partenza",
   "trip_list_countdown_days": "giorni alla partenza",
   "trip_list_traveling_now": "In viaggio ora",
-  "trip_list_new_trip": "Nuovo viaggio"
+  "trip_list_new_trip": "Nuovo viaggio",
+  "add_trip_button_add_destination": "Aggiungi destinazione",
+  "add_trip_search_destination": "Cerca"
 }
