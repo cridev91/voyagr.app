@@ -152,5 +152,6 @@
   "trip_detail_empty_title": "Nessuna attività pianificata",
   "trip_detail_empty_description": "Aggiungi la prima tappa del tuo viaggio",
   "add_trip_name_placeholder": "Nome del viaggio",
-  "add_trip_description_placeholder": "Descrizione (opzionale)"
+  "add_trip_description_placeholder": "Descrizione (opzionale)",
+  "trip_detail_card_day": "Giorno %s"
 }
