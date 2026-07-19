@@ -153,5 +153,8 @@
   "trip_detail_empty_description": "Aggiungi la prima tappa del tuo viaggio",
   "add_trip_name_placeholder": "Nome del viaggio",
   "add_trip_description_placeholder": "Descrizione (opzionale)",
-  "trip_detail_card_day": "GIORNO %s"
+  "trip_detail_card_day": "GIORNO %s",
+  "search_user_placeholder": "Cerca per nome o email...",
+  "search_user_empty_title": "Nessun utente trovato",
+  "search_user_empty_description": "Prova con un nome diverso o inserisci l'email completa"
 }
