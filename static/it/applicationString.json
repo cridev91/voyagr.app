@@ -156,5 +156,10 @@
   "trip_detail_card_day": "GIORNO %s",
   "search_user_placeholder": "Cerca per nome o email...",
   "search_user_empty_title": "Nessun utente trovato",
-  "search_user_empty_description": "Prova con un nome diverso o inserisci l'email completa"
+  "search_user_empty_description": "Prova con un nome diverso o inserisci l'email completa",
+  "user_profile_trips": "viaggi",
+  "user_profile_countries": "paesi",
+  "user_profile_public_trips": "Viaggi pubblici",
+  "user_profile_empty_trips_title": "Nessun viaggio pubblico",
+  "user_profile_empty_trips_description": "Questo utente non ha ancora condiviso nessun viaggio"
 }
