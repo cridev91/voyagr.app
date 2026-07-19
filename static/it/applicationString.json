@@ -164,5 +164,17 @@
   "user_profile_empty_trips_description": "Questo utente non ha ancora condiviso nessun viaggio",
   "trip_detail_copy_trip": "Copia questo viaggio",
   "trip_detail_empty_title_visitor": "Nessun itinerario disponibile",
-  "trip_detail_empty_description_visitor": "L'utente non ha ancora condiviso le tappe di questo viaggio"
+  "trip_detail_empty_description_visitor": "L'utente non ha ancora condiviso le tappe di questo viaggio",
+  "create_itinerary_destination": "Destinazione",
+  "create_itinerary_search_placeholder": "Cerca un posto...",
+  "create_itinerary_name": "Nome attività",
+  "create_itinerary_notes": "Note",
+  "create_itinerary_price": "Prezzo",
+  "create_itinerary_save": "Salva attività",
+  "category_tour": "Tour",
+  "category_restaurant": "Ristorante",
+  "category_beach": "Spiaggia",
+  "category_transport": "Trasporto",
+  "category_lodging": "Alloggio",
+  "category_activity": "Attività"
 }
