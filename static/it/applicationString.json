@@ -161,5 +161,8 @@
   "user_profile_countries": "paesi",
   "user_profile_public_trips": "Viaggi pubblici",
   "user_profile_empty_trips_title": "Nessun viaggio pubblico",
-  "user_profile_empty_trips_description": "Questo utente non ha ancora condiviso nessun viaggio"
+  "user_profile_empty_trips_description": "Questo utente non ha ancora condiviso nessun viaggio",
+  "trip_detail_copy_trip": "Copia questo viaggio",
+  "trip_detail_empty_title_visitor": "Nessun itinerario disponibile",
+  "trip_detail_empty_description_visitor": "L'utente non ha ancora condiviso le tappe di questo viaggio"
 }
