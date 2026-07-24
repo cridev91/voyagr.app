@@ -181,5 +181,6 @@
   "category_sport": "Sport",
   "category_services": "Servizi",
   "category_leisure": "Tempo libero",
-  "category_nature": "Parchi"
+  "category_nature": "Parchi",
+  "create_itinerary_nearby_empty": "Nessun luogo trovato in questa categoria"
 }
