@@ -178,12 +178,7 @@
   "category_lodging": "Alloggio",
   "category_activity": "Attività",
   "create_itinerary_nearby": "Nelle vicinanze",
-  "poi_filter_all": "Tutti",
-  "poi_filter_culture": "Cultura",
-  "poi_filter_nature": "Natura",
-  "poi_filter_landmarks": "Luoghi",
-  "poi_filter_food_and_drink": "Locali",
-  "poi_filter_accommodations": "Alloggi",
-  "poi_filter_transport": "Trasporti",
-  "poi_filter_services": "Servizi"
+  "category_sport": "Sport",
+  "category_services": "Servizi",
+  "category_leisure": "Tempo libero"
 }
