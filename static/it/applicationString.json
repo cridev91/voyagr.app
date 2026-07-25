@@ -184,5 +184,6 @@
   "category_nature": "Parchi",
   "category_religion": "Religione",
   "create_itinerary_nearby_empty": "Nessun luogo trovato in questa categoria",
-  "currency_placeholder": "Valuta"
+  "currency_placeholder": "Valuta",
+  "create_itinerary_time": "Orario"
 }
