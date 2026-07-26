@@ -186,5 +186,6 @@
   "create_itinerary_nearby_empty": "Nessun luogo trovato in questa categoria",
   "currency_placeholder": "Valuta",
   "create_itinerary_time": "Orario",
-  "create_itinerary_select_day": "Seleziona giorno"
+  "create_itinerary_select_day": "Seleziona giorno",
+  "create_itinerary_select_time": "Seleziona orario"
 }
