@@ -239,5 +239,8 @@
   "itinerary_detail_website": "Sito web",
   "itinerary_detail_phone": "Telefono",
   "itinerary_detail_navigate_choose": "Scegli come navigare",
-  "cancel": "Annulla"
+  "cancel": "Annulla",
+  "itinerary_detail_navigate_set_default": "Vuoi usare questa app come predefinita per la navigazione?",
+  "yes": "Sì",
+  "no": "No"
 }
