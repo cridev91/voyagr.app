@@ -233,5 +233,9 @@
   "subcategory_police": "Polizia",
   "subcategory_spa": "Spa",
   "trip_detail_day": "Giorno",
-  "trip_detail_time": "Orario"
+  "trip_detail_time": "Orario",
+  "itinerary_detail_address": "Indirizzo",
+  "itinerary_detail_navigate": "Naviga",
+  "itinerary_detail_website": "Sito web",
+  "itinerary_detail_phone": "Telefono"
 }
