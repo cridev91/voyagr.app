@@ -243,5 +243,7 @@
   "itinerary_detail_navigate_set_default": "Vuoi usare questa app come predefinita per la navigazione?",
   "yes": "Sì",
   "no": "No",
-  "create_itinerary_add_cover": "Aggiungi foto di copertina"
+  "create_itinerary_add_cover": "Aggiungi foto di copertina",
+  "itinerary_route_calculating": "Calcolo percorso...",
+  "itinerary_route_empty": "Nessuna tappa con coordinate disponibile"
 }
